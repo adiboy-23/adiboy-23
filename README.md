@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm ADITYA KADIAN</h1>
 <h3 align="center">Code with Purpose, Build with Passion</h3>
 
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+
 ###
 
 <div align="center">
