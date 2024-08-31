@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm ADITYA KADIAN</h1>
 <h3 align="center">Code with Purpose, Build with Passion</h3>
 
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+[![](https://visitcount.itsvg.in/api?id=adiboy-23&icon=3&color=3)](https://visitcount.itsvg.in)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=adiboy-23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=adiboy-23&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adiboy-23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ###
 
@@ -9,6 +15,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=adiboy-23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adiboy-23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=adiboy-23&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ###
 
@@ -43,6 +52,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adiboy-23&label=Profile%20views&color=0e75b6&style=flat" alt="adiboy-23" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adiboy-23" alt="adiboy-23" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=adiboy-23&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adiboy-23&" alt="adiboy-23" /></p>
