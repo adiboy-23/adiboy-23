@@ -13,14 +13,6 @@
 
 </div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adiboy-23&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-###
-
-<img src="https://raw.githubusercontent.com/adiboy-23/adiboy-23/output/snake.svg" alt="Snake animation" />
-
-###
 
 - 🔭 I’m currently working on **Compiler**
 
@@ -35,6 +27,9 @@
 - 📄 Know about my experiences [https://green-fiorenze-13.tiiny.site/](https://green-fiorenze-13.tiiny.site/)
 
 - ⚡ Fun fact **I like being in nature but hate 'bugs'**
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=adiboy-23&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
