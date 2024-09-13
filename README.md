@@ -24,8 +24,7 @@
 
 - 📫 How to reach me **kadiansahab123@gmail.com**
 
-- 📄 Know about my experiences [https://green-fiorenze-13.tiiny.site/](https://green-fiorenze-13.tiiny.site/)
-
+- 📄 Know about my experiences https://shorturl.at/inP6V
 - ⚡ Fun fact **I like being in nature but hate 'bugs'**
 
 ### 🔝 Top Contributed Repo
