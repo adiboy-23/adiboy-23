@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **kadiansahab123@gmail.com**
 
-- 📄 Know about my experiences https://shorturl.at/inP6V
+- 📄 Know about my experiences https://shorturl.at/UVntq
 - ⚡ Fun fact **I like being in nature but hate 'bugs'**
 
 ### 🔝 Top Contributed Repo
