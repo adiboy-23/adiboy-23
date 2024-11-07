@@ -14,13 +14,9 @@
 </div>
 
 
-- 🔭 I’m currently working on **Compiler**
+- 🔭 I’m currently working on **How to be a Developer**
 
-- 🌱 I’m currently learning **MySQl , TypeScript**
-
-- 🤝 I’m looking for help with **Banking System App**
-
-- 💬 Ask me about **React , NextJS**
+- 🌱 I’m currently learning **MySQl , TypeScript , Flutter**
 
 - 📫 How to reach me **kadiansahab123@gmail.com**
 
