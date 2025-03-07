@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **How to be a Developer**
 
-- 🌱 I’m currently learning **MySQl , TypeScript , Flutter**
+- 🌱 Learning how to code
 
 - 📫 How to reach me **kadiansahab123@gmail.com**
 
